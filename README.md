@@ -14,7 +14,7 @@
 
 ### 🚀 About Me
 - 🔭 Currently working on **ALLOCASTRA**
-- 🌱 Learning **Machine Learning, Deep Learning & Data Analytics**
+- 🌱 Learning **Machine Learning, Artificial Intelligence, Deep Learning & Data Analytics**
 - 👨‍💻 Explore my projects:  
   👉 **[GitHub Repositories](https://github.com/vaibhavDS00?tab=repositories)**
 - 📫 Reach me at **vaibhavgupta9958@gmail.com**
